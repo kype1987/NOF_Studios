@@ -1,0 +1,954 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-04-01T20:37:14.258+01:00
+  initializedAtString: 2021-04-01T20:36:06.334+01:00
+  entries:
+  - path: FranDevArea\Assets\Plugins.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Assets\Scenes\SampleScene.unity
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ArtifactDB
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\Artifacts\01\014f3908dd5a2ae1e2f5fe51911a7e9f
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\01\014f3908dd5a2ae1e2f5fe51911a7e9f
+    projectPath: Library\Artifacts\01\014f3908dd5a2ae1e2f5fe51911a7e9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\05\0585ae72ce256858214eafea84e69e2d
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\05\0585ae72ce256858214eafea84e69e2d
+    projectPath: Library\Artifacts\05\0585ae72ce256858214eafea84e69e2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\0a\0a357cc2262f643288d2d7978d8809f3
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\0a\0a357cc2262f643288d2d7978d8809f3
+    projectPath: Library\Artifacts\0a\0a357cc2262f643288d2d7978d8809f3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: FranDevArea\Library\Artifacts\0e\0ebb78b3572e2b9847b8a1991393b067
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\0e\0ebb78b3572e2b9847b8a1991393b067
+    projectPath: Library\Artifacts\0e\0ebb78b3572e2b9847b8a1991393b067
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\0f\0fb0d52bd199459661e8b7a913ed9874
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\0f\0fb0d52bd199459661e8b7a913ed9874
+    projectPath: Library\Artifacts\0f\0fb0d52bd199459661e8b7a913ed9874
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\20\2076061b617b301f6f9ecaa5cd11f4ee
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\20\2076061b617b301f6f9ecaa5cd11f4ee
+    projectPath: Library\Artifacts\20\2076061b617b301f6f9ecaa5cd11f4ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\25\25605745d75ffc5dce6c53985b04214e
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\25\25605745d75ffc5dce6c53985b04214e
+    projectPath: Library\Artifacts\25\25605745d75ffc5dce6c53985b04214e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\25\259e90216f0b09b40894747352e96731
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\25\259e90216f0b09b40894747352e96731
+    projectPath: Library\Artifacts\25\259e90216f0b09b40894747352e96731
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\33\3384f1f2a5773bd2191fc57cc5147a98
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\33\3384f1f2a5773bd2191fc57cc5147a98
+    projectPath: Library\Artifacts\33\3384f1f2a5773bd2191fc57cc5147a98
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: FranDevArea\Library\Artifacts\35\353cb701c1ff771b92a967759de8e5bf
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\35\353cb701c1ff771b92a967759de8e5bf
+    projectPath: Library\Artifacts\35\353cb701c1ff771b92a967759de8e5bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\40\4035602ae5c043292bbf3e0cf3a9c6be
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\40\4035602ae5c043292bbf3e0cf3a9c6be
+    projectPath: Library\Artifacts\40\4035602ae5c043292bbf3e0cf3a9c6be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\41\4196956538b039537b6678c9244d46c5
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\41\4196956538b039537b6678c9244d46c5
+    projectPath: Library\Artifacts\41\4196956538b039537b6678c9244d46c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\47\47d8e2c38a566d4fd595811cecf1889b
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\47\47d8e2c38a566d4fd595811cecf1889b
+    projectPath: Library\Artifacts\47\47d8e2c38a566d4fd595811cecf1889b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\48\485bcf83fa7fc1ba0c0c30aaf70d1f6b
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\48\485bcf83fa7fc1ba0c0c30aaf70d1f6b
+    projectPath: Library\Artifacts\48\485bcf83fa7fc1ba0c0c30aaf70d1f6b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: FranDevArea\Library\Artifacts\51\51e793ed9bb861ee5ea8012ef31659fe
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\51\51e793ed9bb861ee5ea8012ef31659fe
+    projectPath: Library\Artifacts\51\51e793ed9bb861ee5ea8012ef31659fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\56\564112c50403386b366cc1f549268a04
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\56\564112c50403386b366cc1f549268a04
+    projectPath: Library\Artifacts\56\564112c50403386b366cc1f549268a04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\5c\5c094244386d5d031d0080843eaa8842
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\5c\5c094244386d5d031d0080843eaa8842
+    projectPath: Library\Artifacts\5c\5c094244386d5d031d0080843eaa8842
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: FranDevArea\Library\Artifacts\5c\5ce8191126c388df771be8235c1a6eb5
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\5c\5ce8191126c388df771be8235c1a6eb5
+    projectPath: Library\Artifacts\5c\5ce8191126c388df771be8235c1a6eb5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\5d\5d3b84dc2dc52cdf08eaab737db86d38
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\5d\5d3b84dc2dc52cdf08eaab737db86d38
+    projectPath: Library\Artifacts\5d\5d3b84dc2dc52cdf08eaab737db86d38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\78\783de668b80cacbc7ede1ca89c015229
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\78\783de668b80cacbc7ede1ca89c015229
+    projectPath: Library\Artifacts\78\783de668b80cacbc7ede1ca89c015229
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: FranDevArea\Library\Artifacts\78\78e4f6e3847dc9a3e4c7e67ab852dff4
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\78\78e4f6e3847dc9a3e4c7e67ab852dff4
+    projectPath: Library\Artifacts\78\78e4f6e3847dc9a3e4c7e67ab852dff4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: FranDevArea\Library\Artifacts\84\849b344fb502da6383d7813af1e2bc59
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\84\849b344fb502da6383d7813af1e2bc59
+    projectPath: Library\Artifacts\84\849b344fb502da6383d7813af1e2bc59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\90\90070b1f13543a447c349b660bf75332
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\90\90070b1f13543a447c349b660bf75332
+    projectPath: Library\Artifacts\90\90070b1f13543a447c349b660bf75332
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\93\93cfb610f34070acd7bde6e1feedde18
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\93\93cfb610f34070acd7bde6e1feedde18
+    projectPath: Library\Artifacts\93\93cfb610f34070acd7bde6e1feedde18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\95\951f15ac9109692fd8c1ed28eac2acdd
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\95\951f15ac9109692fd8c1ed28eac2acdd
+    projectPath: Library\Artifacts\95\951f15ac9109692fd8c1ed28eac2acdd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\a4\a49402e21e0e46ff5a3c9c9d13d6c556
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\a4\a49402e21e0e46ff5a3c9c9d13d6c556
+    projectPath: Library\Artifacts\a4\a49402e21e0e46ff5a3c9c9d13d6c556
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\ad\ad8ce756b630524ef570cec9440f0f4d
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\ad\ad8ce756b630524ef570cec9440f0f4d
+    projectPath: Library\Artifacts\ad\ad8ce756b630524ef570cec9440f0f4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\ad\adc54b84e9c4b407d38361fba32c5fdc
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\ad\adc54b84e9c4b407d38361fba32c5fdc
+    projectPath: Library\Artifacts\ad\adc54b84e9c4b407d38361fba32c5fdc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: FranDevArea\Library\Artifacts\b1\b1399badfacd29288761a9286b0989d9
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\b1\b1399badfacd29288761a9286b0989d9
+    projectPath: Library\Artifacts\b1\b1399badfacd29288761a9286b0989d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\bf\bf701d24cd043d30d0731e5f0f2abb14
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\bf\bf701d24cd043d30d0731e5f0f2abb14
+    projectPath: Library\Artifacts\bf\bf701d24cd043d30d0731e5f0f2abb14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\c3\c351cdc98f316fcac180bb1b5f0cd045
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\c3\c351cdc98f316fcac180bb1b5f0cd045
+    projectPath: Library\Artifacts\c3\c351cdc98f316fcac180bb1b5f0cd045
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\c4\c485f827ee073d6b4e356f1c5c47ecf2
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\c4\c485f827ee073d6b4e356f1c5c47ecf2
+    projectPath: Library\Artifacts\c4\c485f827ee073d6b4e356f1c5c47ecf2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\c7\c7255cc9079450c2d41cf02cffdaecc8
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\c7\c7255cc9079450c2d41cf02cffdaecc8
+    projectPath: Library\Artifacts\c7\c7255cc9079450c2d41cf02cffdaecc8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\c7\c7588400a702e251db6d66b70ed3cefa
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\c7\c7588400a702e251db6d66b70ed3cefa
+    projectPath: Library\Artifacts\c7\c7588400a702e251db6d66b70ed3cefa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: FranDevArea\Library\Artifacts\cc\cc8bc3db99fd0484da55748a0476310c
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\cc\cc8bc3db99fd0484da55748a0476310c
+    projectPath: Library\Artifacts\cc\cc8bc3db99fd0484da55748a0476310c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\d8\d8c09f483912430d659804e5d64fc72b
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\d8\d8c09f483912430d659804e5d64fc72b
+    projectPath: Library\Artifacts\d8\d8c09f483912430d659804e5d64fc72b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\db\db4c1e437a9fdf73bf6b618a3ec2171d
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\db\db4c1e437a9fdf73bf6b618a3ec2171d
+    projectPath: Library\Artifacts\db\db4c1e437a9fdf73bf6b618a3ec2171d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: FranDevArea\Library\Artifacts\e2\e269b8bf411d10c222732dc473a4298c
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\e2\e269b8bf411d10c222732dc473a4298c
+    projectPath: Library\Artifacts\e2\e269b8bf411d10c222732dc473a4298c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: FranDevArea\Library\Artifacts\f8\f8329cbc70753875a63d089446b2c6d4
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\f8\f8329cbc70753875a63d089446b2c6d4
+    projectPath: Library\Artifacts\f8\f8329cbc70753875a63d089446b2c6d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\fa\fa2b83ad1d12bf8ff42595bd6e98f3d3
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\fa\fa2b83ad1d12bf8ff42595bd6e98f3d3
+    projectPath: Library\Artifacts\fa\fa2b83ad1d12bf8ff42595bd6e98f3d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\Artifacts\fb\fb1497f52be806b77add2f2ac848aa8b
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\Artifacts\fb\fb1497f52be806b77add2f2ac848aa8b
+    projectPath: Library\Artifacts\fb\fb1497f52be806b77add2f2ac848aa8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\CurrentLayout-default.dwlt
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\EditorInstance.json
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\expandedItems
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\gfu\cache\branches.yaml
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\SceneVisibilityState.asset
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+    projectPath: Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\Unity.XR.Management.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Unity.XR.Management.dll
+    projectPath: Library\ScriptAssemblies\Unity.XR.Management.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\Unity.XR.Oculus.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Unity.XR.Oculus.dll
+    projectPath: Library\ScriptAssemblies\Unity.XR.Oculus.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\Unity.XR.Oculus.Editor.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\Unity.XR.Oculus.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.XR.Oculus.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\ShaderCache\5\5decbd934e50285f1f6e29ff75e615d2.bin
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ShaderCache\5\5decbd934e50285f1f6e29ff75e615d2.bin
+    projectPath: Library\ShaderCache\5\5decbd934e50285f1f6e29ff75e615d2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\ShaderCache\e\e0c4ce9cda10f1cf3637ff7e21f742b0.bin
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ShaderCache\e\e0c4ce9cda10f1cf3637ff7e21f742b0.bin
+    projectPath: Library\ShaderCache\e\e0c4ce9cda10f1cf3637ff7e21f742b0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FranDevArea\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\SourceAssetDB
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Library\StateCache\SceneView\d9f884-mainStage.json
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Library\StateCache\SceneView\d9f884-mainStage.json
+    projectPath: Library\StateCache\SceneView\d9f884-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FranDevArea\Temp\UnityLockfile
+    fullPath: D:\NOF_Studio_Games\NOF_Studios\FranDevArea\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
